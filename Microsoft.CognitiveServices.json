@@ -1,0 +1,214 @@
+{
+                "totalRecords": 10,
+                "count": 10,
+                "data": {
+                    "columns": [
+                        {
+                            "name": "name",
+                            "type": "string"
+                        },
+                        {
+                            "name": "kind",
+                            "type": "string"
+                        },
+                        {
+                            "name": "locationDisplayName",
+                            "type": "string"
+                        },
+                        {
+                            "name": "customDomainName",
+                            "type": "string"
+                        },
+                        {
+                            "name": "sku",
+                            "type": "string"
+                        },
+                        {
+                            "name": "status",
+                            "type": "string"
+                        },
+                        {
+                            "name": "createdDate",
+                            "type": "string"
+                        },
+                        {
+                            "name": "id",
+                            "type": "string"
+                        },
+                        {
+                            "name": "type",
+                            "type": "string"
+                        },
+                        {
+                            "name": "location",
+                            "type": "string"
+                        },
+                        {
+                            "name": "subscriptionId",
+                            "type": "string"
+                        },
+                        {
+                            "name": "resourceGroup",
+                            "type": "string"
+                        },
+                        {
+                            "name": "tags",
+                            "type": "object"
+                        }
+                    ],
+                    "rows": [
+                        [
+                            "{{accountName}}",
+                            "AnomalyDetector",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T17:45:51.0737125Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "ComputerVision",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T17:45:18.9712615Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "ContentModerator",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T17:46:18.2727919Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "Face",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T04:11:57.4453379Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "TextAnalytics",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T17:44:18.5973655Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "Personalizer",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T17:46:58.5365981Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "SpeechServices",
+                            "{{location}}",
+                            "",
+                            "F0",
+                            "Succeeded",
+                            "2022-09-24T20:32:51.9729286Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "TextTranslation",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-13T20:45:51.9302315Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "CustomVision.Training",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T04:41:25.4051133Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ],
+                        [
+                            "{{accountName}}",
+                            "CustomVision.Prediction",
+                            "{{location}}",
+                            "{{accountName}}",
+                            "F0",
+                            "Succeeded",
+                            "2022-08-22T04:41:26.4744816Z",
+                            "/subscriptions/{{subscriptionId}}/resourceGroups/{{resourceGroup}}/providers/Microsoft.CognitiveServices/accounts/{{accountName}}",
+                            "microsoft.cognitiveservices/accounts",
+                            "eastus",
+                            "{{subscriptionId}}",
+                            "{{resourceGroup}}",
+                            {}
+                        ]
+                    ]
+                },
+                "facets": [],
+                "resultTruncated": "false"
+            }
