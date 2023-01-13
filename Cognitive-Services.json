@@ -12,7 +12,7 @@
          },
          {
             "name":"Speech translation",
-            "description":"Integrate real-time speech translation into your apps."
+            "description":"allows users to easily translate text from one language to another. The API supports more than 60 languages, including English, Spanish, French, German, Chinese, and many more. The service can be used for a variety of use cases such as website localization, app localization, and content localization. The API allows for a batch mode for large amount of data, also It can handle multiple languages in a single request and also allows to detect the language automatically. It also offers customizable models for specific domain or industry. Azure Cognitive Services Translation API is a cloud-based service, it means that the translation process is done on the cloud, which provides scalability and reliability."
          },
          {
             "name":"Speaker recognition",
