@@ -36,7 +36,7 @@
             "description":"Enable your apps to interact with users through natural language."
          },
          {
-            "name":"Conversational language understanding",
+            "name":"Text Translation",
             "description":"Translate more than 100 languages and dialects."
          }
       ]
