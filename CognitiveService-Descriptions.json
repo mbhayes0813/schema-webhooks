@@ -3,21 +3,24 @@
         "name": "Computer Vision API",
         "description": "Allows you to analyze images and videos, extract information, and perform tasks such as object detection, image tagging, and image recognition.",
         "aliases": [
-            "computerVision"
+            "computerVision",
+            "computervision"
         ]
     },
     {
         "name": "Custom Vision API",
         "description": "Allows you to train custom image classification models for your specific needs.",
         "aliases": [
-            "customVision"
+            "customVision",
+            "customvision.training"
         ]
     },
     {
         "name": "Content Moderator API",
         "description": "Allows you to automatically moderate text, image, and video content for offensive, sexual, or other unwanted content.",
         "aliases": [
-            "contentModerator"
+            "contentModerator",
+            "contentmoderator"
         ]
     },
     {
@@ -83,7 +86,8 @@
         "name": "Personalizer API",
         "description": "Allows you to personalize the user experience by learning from the user's interactions and making real-time decisions.",
         "aliases": [
-            "personalizer"
+            "personalizer",
+            "Personalizer API"
         ]
     },
     {
