@@ -33,7 +33,8 @@
         "description": "Allows you to convert speech to text, text to speech, and perform tasks such as speech recognition, transcription, and speech synthesis.",
         "aliases": [
             "speechservices",
-            "face"
+            "speech",
+            "speech-services"
         ]
     },
     {
@@ -49,7 +50,10 @@
         "description": "Allows you to translate text from one language to another.",
         "aliases": [
             "translator",
-             "TextTranslation"
+             "TextTranslation",
+            "texttranslation",
+            "translation",
+            "text-translation"
         ]
     },
     {
