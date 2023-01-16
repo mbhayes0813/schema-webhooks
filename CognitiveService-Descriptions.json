@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Computer Vision API",
+        "description": "Allows you to analyze images and videos, extract information, and perform tasks such as object detection, image tagging, and image recognition.",
+        "aliases": []
+    },
+    {
+        "name": "Custom Vision API",
+        "description": "Allows you to train custom image classification models for your specific needs.",
+        "aliases": []
+    },
+    {
+        "name": "Content Moderator API",
+        "description": "Allows you to automatically moderate text, image, and video content for offensive, sexual, or other unwanted content.",
+        "aliases": []
+    },
+    {
+        "name": "Face API",
+        "description": "Allows you to detect and recognize faces, as well as perform tasks such as facial recognition and facial emotion detection.",
+        "aliases": []
+    },
+    {
+        "name": "Speech API",
+        "description": "Allows you to convert speech to text, text to speech, and perform tasks such as speech recognition, transcription, and speech synthesis.",
+        "aliases": []
+    },
+    {
+        "name": "Text Analytics API",
+        "description": "Allows you to extract insights from unstructured text, such as sentiment analysis, key phrase extraction, and language detection.",
+        "aliases": []
+    },
+    {
+        "name": "Translator Text API",
+        "description": "Allows you to translate text from one language to another.",
+        "aliases": []
+    },
+    {
+        "name": "Language Understanding API",
+        "description": "Allows you to understand the intent and entities in text, and to perform tasks such as natural language understanding and natural language generation.",
+        "aliases": []
+    },
+    {
+        "name": "Anomaly Detector API",
+        "description": "Allows you to detect anomalies in time-series data, such as sensor data or log files.",
+        "aliases": []
+    },
+    {
+        "name": "Form Recognizer API",
+        "description": "Allows you to extract information from forms such as receipts, invoices, and ID cards.",
+        "aliases": []
+    },
+    {
+        "name": "Personalizer API",
+        "description": "Allows you to personalize the user experience by learning from the user's interactions and making real-time decisions.",
+        "aliases": []
+    },
+    {
+        "name": "QnA Maker API",
+        "description": "Allows you to create a knowledge base of question-answer pairs and use it to automatically answer questions from users.",
+        "aliases": []
+    },
+    {
+        "name": "Search API",
+        "description": "Allows you to add search functionality to your application, such as web search, document search, and suggestions.",
+        "aliases": []
+    }
+]
