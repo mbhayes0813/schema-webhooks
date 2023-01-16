@@ -59,7 +59,8 @@
         "name": "Anomaly Detector API",
         "description": "Allows you to detect anomalies in time-series data, such as sensor data or log files.",
         "aliases": [
-            "anomolyDetector"
+            "anomolyDetector",
+             "anomalyDetector"
         ]
     },
     {
